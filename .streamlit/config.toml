@@ -1,0 +1,6 @@
+[runner]
+fastReruns = true  # Daha hızlı yeniden yükleme
+
+[server]
+maxUploadSize = 500  # MB cinsinden maksimum dosya boyutu
+maxMessageSize = 500
