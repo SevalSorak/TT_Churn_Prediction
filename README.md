@@ -34,6 +34,6 @@ Bu capstone görevinde hedefimiz, olası müşteri göçlerinin (churn) önüne 
 
 ### 📸 Ekran Görüntüleri ve Video
 
-*   **Streamlit Arayüzü Görseli:** ![Streamlit Arayüzü 1](assets/Ekran görüntüsü 2025-02-14 171910.png)
-![Streamlit Arayüzü 2](assets/Ekran görüntüsü 2025-02-14 172507.png)
-*   **Streamlit Arayüzü Videosu:** ![Video Bağlantısı](assets/app.webm)
+*   **Streamlit Arayüzü Görseli:** ![Streamlit Arayüzü 1](assets/yasdagilimi)
+![Streamlit Arayüzü 2](assets/odemegecikmeleri)
+*   **Streamlit Arayüzü Videosu:** [![Streamlit Video](https://img.youtube.com/vi/Q9OOWAbpzU4/maxresdefault.jpg)](https://youtu.be/Q9OOWAbpzU4)
